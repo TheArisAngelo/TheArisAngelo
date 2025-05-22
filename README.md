@@ -15,4 +15,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=github-dark-dimmed&border_radius=5.5" alt="GitHub Streak"/>
 </a>
 </div>
- 
+
+![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=2c52e4)
+![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
+![ReactJS](https://img.shields.io/badge/-React_JS-1d1f21?style=flat&logo=React&logoColor=66dbfb)
+![NPM](https://img.shields.io/badge/-NPM-1d1f21?style=flat&logo=NPM&logoColor=cd3e3d) 
+
