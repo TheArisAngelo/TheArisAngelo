@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <a href="" target="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=github-dark-dimmed&border_radius=5.5" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </a>
 </div>
 
