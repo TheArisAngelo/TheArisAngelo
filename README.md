@@ -10,11 +10,6 @@
 TheArisAngelo/TheArisAngelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-<a href="" target="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=tokyonight-duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</a>
-</div>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
