@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArisAngelo&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+## Snake Eating my Github Contributions 😨
 
 ![snake gif](https://github.com/TheArisAngelo/TheArisAngelo/blob/output/github-snake-dark.svg)
 
