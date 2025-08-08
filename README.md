@@ -18,6 +18,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://nirzak-streak-stats.vercel.app/?user=TheArisAngelo&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheArisAngelo&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+![snake gif](https://github.com/TheArisAngelo/TheArisAngelo/blob/output/github-snake-dark.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheArisAngelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
