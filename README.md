@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development, Software Development, Network Configurations, Databases
 - 💞️ I’m looking to collaborate on Anything about my Interests or the things that i do not know about
 - 📫 How to reach me Outlook - aris.angelo.don@outlook.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I never expect myself to have an interests stated above it just hit me that i do enjoy these kind of works. 
 
 <!---
