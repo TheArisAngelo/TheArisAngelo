@@ -28,6 +28,3 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67f9174607425752ab2c8083?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
-## Watch Snake Eating my Github Contributions
-
-![snake gif](https://github.com/TheArisAngelo/TheArisAngelo/blob/output/github-contribution-grid-snake.svg)
