@@ -1,7 +1,7 @@
 HI! 🙋‍♂️
 
 - 👋 Hi, I’m @TheArisAngelo
-- 👀 I’m interested in Web Development, Software Development, IT Works, Network Configurations 
+- 👀 I’m interested in Web Development, Software Development, Network Configurations 
 - 🌱 I’m currently learning Front-end Web Development, Back-end Development, JS Libraries/Frameworks, Three.js 
 - 💞️ I’m looking to collaborate on Anything about my Interests or the things that i do not know about
 - 📫 How to reach me Outlook - aris.angelo.don@outlook.com
