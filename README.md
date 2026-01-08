@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aris Angelo Don! 
-- 💻 Web Dev | Software Dev | Network Config
+- 💻 Front-end Web Dev 
 - 🌱 Learning JS, Frameworks  
 - 📫 aris.angelo.don@outlook.com
 
