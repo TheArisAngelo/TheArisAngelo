@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Roadmap Progress: 📈
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67f9174607425752ab2c8083?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f9174607425752ab2c8083?variant=light&roadmaps=javascript%2Creact%2Ccss" alt="roadmap.sh"/></a>
 
