@@ -15,13 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://github.com/TheArisAngelo/TheArisAngelo/blob/output/github-snake-dark.svg)
 
-
-##  GitHub Trophies: 🏆
-
-![](https://github-profile-trophy.vercel.app/?username=TheArisAngelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=TheArisAngelo&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## Roadmap Progress: 📈
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f9174607425752ab2c8083?variant=light&roadmaps=javascript%2Creact%2Ccss" alt="roadmap.sh"/></a>
