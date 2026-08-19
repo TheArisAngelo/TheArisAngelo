@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🔥 Highlights
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=dark-aura&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheArisAngelo&theme=dark-aura&hide_border=true" alt="GitHub Streak" /></a>
 <!-- End o
 
 #  Tech Stack: 💻
