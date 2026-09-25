@@ -7,7 +7,7 @@
 ![snake gif](https://github.com/TheArisAngelo/TheArisAngelo/blob/output/github-snake-dark.svg)
 
 ## CSS Roadmap Road Card
-- <img width="600" height="600" alt="road-card" src="https://github.com/user-attachments/assets/ad74ed79-9092-4b18-8451-8fdded94f46d" />
+- <img width="1200" height="1500" alt="road-card" src="https://github.com/user-attachments/assets/ad74ed79-9092-4b18-8451-8fdded94f46d" />
 
 
 
